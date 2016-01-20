@@ -15438,6 +15438,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="124.46" y1="35.56" x2="165.1" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="35.56" x2="165.1" y2="30.48" width="0.1524" layer="91"/>
 <junction x="165.1" y="30.48"/>
+<pinref part="IC3" gate="B" pin="-IN"/>
 </segment>
 </net>
 <net name="N$24" class="0">

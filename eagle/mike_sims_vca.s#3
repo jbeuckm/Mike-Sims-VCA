@@ -15178,9 +15178,9 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="R4" library="rcl" deviceset="R-US_" device="0207/10" value="30k1"/>
-<part name="C11" library="rcl" deviceset="C-US" device="050-024X044" value="180p"/>
+<part name="C11" library="rcl" deviceset="C-US" device="050-024X044" value="120p"/>
 <part name="Q1" library="transistor-pnp" deviceset="2N3906" device=""/>
-<part name="C12" library="rcl" deviceset="C-US" device="050-024X044" value="330p"/>
+<part name="C12" library="rcl" deviceset="C-US" device="050-024X044" value="390p"/>
 <part name="R5" library="rcl" deviceset="R-US_" device="0207/10" value="10k"/>
 </parts>
 <sheets>
