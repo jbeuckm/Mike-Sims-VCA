@@ -21,6 +21,14 @@
     <layer name="holes" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
+        <points id="153">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>7.5,3</p>
+            <p>20,125.5</p>
+          </pts>
+        </points>
         <points id="152">
           <ModificationCount>16</ModificationCount>
           <mat m="Identity" />
